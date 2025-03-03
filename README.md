@@ -33,10 +33,10 @@ Use it to detect when LLMs' or vision models' "understanding" shifts over time.
 
 ### **🔍 Simulated Drift Visualizations**
 **Baseline Text Embeddings**  
-<img src="src/baseline_text_embeddings.png" width="400" />
+<img src="src/baseline_embeddings.png" width="400" />
 
 **Drifted Text Embeddings** (after noise injection) 
-<img src="src/drifted_text_embeddings.png" width="400" />
+<img src="src/drifted_embeddings.png" width="400" />
 
 ---
 ## 2️⃣ Real-World Drift (Text & Image)
