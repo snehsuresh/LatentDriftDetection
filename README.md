@@ -70,8 +70,6 @@ We compared embeddings from **two different time periods/domains:**
 
 ---
 # ⚙️ Installation & Usage
-
-## 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
 python src/main.py
