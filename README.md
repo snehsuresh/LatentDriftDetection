@@ -60,7 +60,7 @@ We compared embeddings from **two different time periods/domains:**
 <img src="plots/baseline_text_embeddings.png" width="400" />
 
 **Drifted Text Embeddings (News-style)**  
-<img src="plots/drifted_text_embeddings.png" width="400" />
+<img src="plots/drift_text_embeddings.png" width="400" />
 
 **Baseline Image Embeddings**  
 <img src="plots/baseline_image_embeddings.png" width="400" />
