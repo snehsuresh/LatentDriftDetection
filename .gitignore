@@ -173,3 +173,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 drift_env/
+datasets/
+hub/
+modules/
+stored_tokens
+token
+src/data/

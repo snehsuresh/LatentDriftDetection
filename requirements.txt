@@ -1,8 +1,8 @@
 # requirements.txt
 transformers
-torch
+torch==2.2.0+cu118
 datasets
-faiss-gpu
+faiss-cpu
 umap-learn
 matplotlib
 scikit-learn
