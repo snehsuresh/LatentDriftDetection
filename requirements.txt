@@ -1,0 +1,13 @@
+# requirements.txt
+transformers
+torch
+datasets
+faiss-gpu
+umap-learn
+matplotlib
+scikit-learn
+numpy
+tqdm
+bert-score
+scipy
+Pillow
