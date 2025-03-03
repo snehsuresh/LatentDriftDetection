@@ -33,17 +33,10 @@ Use it to detect when LLMs' or vision models' "understanding" shifts over time.
 
 ### **🔍 Simulated Drift Visualizations**
 **Baseline Text Embeddings**  
-![Baseline Text](plots/baseline_text_embeddings.png)  
+<img src="src/baseline_text_embeddings.png" width="400" />
 
 **Drifted Text Embeddings** (after noise injection)  
-![Drifted Text](plots/drifted_text_embeddings.png)  
-
-**Baseline Image Embeddings**  
-![Baseline Image](plots/baseline_image_embeddings.png)  
-
-**Drifted Image Embeddings** (after simulated jitter)  
-![Drifted Image](plots/drifted_image_embeddings.png)  
-
+<img src="src/drifted_text_embeddings.png" width="400" />
 ---
 ## 2️⃣ Real-World Drift (Text & Image)
 
@@ -63,16 +56,16 @@ We compared embeddings from **two different time periods/domains:**
 
 ### **🔍 Real-World Drift Visualizations**
 **Baseline Text Embeddings (Wiki-style)**  
-![Baseline Text](src/plots/baseline_text_embeddings.png)  
+<img src="plots/baseline_text_embeddings.png" width="400" />
 
 **Drifted Text Embeddings (News-style)**  
-![Drifted Text](src/plots/drifted_text_embeddings.png)  
+<img src="plots/drifted_text_embeddings.png" width="400" />
 
 **Baseline Image Embeddings**  
-![Baseline Image](src/plots/baseline_image_embeddings.png)  
+<img src="plots/baseline_image_embeddings.png)" width="400" />
 
 **Drifted Image Embeddings (Color shift applied)**  
-![Drifted Image](src/plots/drifted_image_embeddings.png)  
+<img src="plots/baseline_image_embeddings.png)" width="400" />
 
 ---
 # ⚙️ Installation & Usage
