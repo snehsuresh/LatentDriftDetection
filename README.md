@@ -63,16 +63,16 @@ We compared embeddings from **two different time periods/domains:**
 
 ### **🔍 Real-World Drift Visualizations**
 **Baseline Text Embeddings (Wiki-style)**  
-![Baseline Text](plots/baseline_text_embeddings.png)  
+![Baseline Text](src/plots/baseline_text_embeddings.png)  
 
 **Drifted Text Embeddings (News-style)**  
-![Drifted Text](plots/drifted_text_embeddings.png)  
+![Drifted Text](src/plots/drifted_text_embeddings.png)  
 
 **Baseline Image Embeddings**  
-![Baseline Image](plots/baseline_image_embeddings.png)  
+![Baseline Image](src/plots/baseline_image_embeddings.png)  
 
 **Drifted Image Embeddings (Color shift applied)**  
-![Drifted Image](plots/drifted_image_embeddings.png)  
+![Drifted Image](src/plots/drifted_image_embeddings.png)  
 
 ---
 # ⚙️ Installation & Usage
