@@ -35,8 +35,9 @@ Use it to detect when LLMs' or vision models' "understanding" shifts over time.
 **Baseline Text Embeddings**  
 <img src="src/baseline_text_embeddings.png" width="400" />
 
-**Drifted Text Embeddings** (after noise injection)  
+**Drifted Text Embeddings** (after noise injection) 
 <img src="src/drifted_text_embeddings.png" width="400" />
+
 ---
 ## 2️⃣ Real-World Drift (Text & Image)
 
@@ -62,10 +63,10 @@ We compared embeddings from **two different time periods/domains:**
 <img src="plots/drifted_text_embeddings.png" width="400" />
 
 **Baseline Image Embeddings**  
-<img src="plots/baseline_image_embeddings.png)" width="400" />
+<img src="plots/baseline_image_embeddings.png" width="400" />
 
 **Drifted Image Embeddings (Color shift applied)**  
-<img src="plots/baseline_image_embeddings.png)" width="400" />
+<img src="plots/baseline_image_embeddings.png" width="400" />
 
 ---
 # ⚙️ Installation & Usage
